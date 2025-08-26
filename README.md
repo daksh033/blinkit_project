@@ -40,6 +40,5 @@ Using **Excel** for data cleaning, **SQL** for data integration, and **Figma** f
 ---
 
 ## 🚀 How to Use  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/blinkit-powerbi-dashboard.git
+1. Use the following link:
+   https://bpitdelhi-my.sharepoint.com/:u:/g/personal/daksh8ecea22_bpitindia_edu_in/EYNw2HYGf-VCuJ9Bn5bsDZgBdKcSJaNCBHCrG4UkeZAXqg?e=dqLfsG
