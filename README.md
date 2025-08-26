@@ -33,6 +33,8 @@ Using **Excel** for data cleaning, **SQL** for data integration, and **Figma** f
 
 ## 📸 Dashboard Preview  
 <img width="1300" height="709" alt="image" src="https://github.com/user-attachments/assets/5c87782f-5a81-4c6f-83e9-eb8324c0b75d" />
+<img width="1295" height="712" alt="image" src="https://github.com/user-attachments/assets/fe093175-ff79-4edd-a339-f0792652a222" />
+
   
 
 ---
