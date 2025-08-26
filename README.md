@@ -32,7 +32,8 @@ Using **Excel** for data cleaning, **SQL** for data integration, and **Figma** f
 ---
 
 ## 📸 Dashboard Preview  
-*(Insert screenshots here – export key visuals from Power BI and add as images)*  
+<img width="1300" height="709" alt="image" src="https://github.com/user-attachments/assets/5c87782f-5a81-4c6f-83e9-eb8324c0b75d" />
+  
 
 ---
 
