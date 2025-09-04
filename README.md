@@ -31,8 +31,28 @@ Using **Excel** for data cleaning, **SQL** for data integration, and **Figma** f
 
 ---
 
-## 📸 Dashboard Preview  
-<img width="1300" height="709" alt="image" src="https://github.com/user-attachments/assets/5c87782f-5a81-4c6f-83e9-eb8324c0b75d" />
-<img width="1295" height="712" alt="image" src="https://github.com/user-attachments/assets/fe093175-ff79-4edd-a339-f0792652a222" />
+## 📸 Dashboard Preview
+Home Page
+<img width="1919" height="1073" alt="Screenshot 2025-09-04 023404" src="https://github.com/user-attachments/assets/9b44bbdc-4a2b-4307-9ee6-7ae4896b04b7" />
+
+Overview
+<img width="1294" height="726" alt="Screenshot 2025-09-04 022050" src="https://github.com/user-attachments/assets/6eba2876-c1d7-4e29-b121-c41ab7b5f746" />
+
+Sales Overview
+<img width="1299" height="727" alt="Screenshot 2025-09-04 022117" src="https://github.com/user-attachments/assets/8332e46c-2821-4149-ac34-3950f9a6e149" />
+
+Customer Section
+<img width="1294" height="719" alt="Screenshot 2025-09-04 022134" src="https://github.com/user-attachments/assets/2aa21b08-59bc-4d8c-9081-eebfbad7d19f" />
+
+Inventory Details
+<img width="1295" height="712" alt="Screenshot 2025-08-26 175133" src="https://github.com/user-attachments/assets/7e8b1fe1-f2ba-43ba-b04b-ef9a16096b78" />
+
+Feedbacks
+<img width="1295" height="726" alt="Screenshot 2025-09-04 022156" src="https://github.com/user-attachments/assets/7e152af9-ad5d-4bc7-ae97-112d646a9a4e" />
+
+Marketing
+<img width="1300" height="709" alt="Screenshot 2025-08-26 175019" src="https://github.com/user-attachments/assets/04e3b4b1-364a-40ce-9df8-5c6dfe78408f" />
+
+
 
 
