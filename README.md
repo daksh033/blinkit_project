@@ -26,7 +26,7 @@ Using **Excel** for data cleaning, **SQL** for data integration, and **Figma** f
 ## 🚀 How to Access the Dashboard  
 
 ### Option 1: View Live (Recommended)  
-👉 [Click here to view the interactive dashboard](https://app.powerbi.com/links/hqHpJ8XYsU?ctid=4cf084e4-cd6e-401b-88f6-51abe562dc9a&pbi_source=linkShare&bookmarkGuid=7bc9aa26-9003-47cf-9945-40ca9f2b2ed9)  
+👉 [Click here to view the interactive dashboard](https://app.powerbi.com/reportEmbed?reportId=ccfa8400-d409-496e-8791-d6ab42ef1d6a&autoAuth=true&ctid=4cf084e4-cd6e-401b-88f6-51abe562dc9a)  
 *(Best way to explore filters, slicers, and visuals without setup)*  
 
 ---
