@@ -23,11 +23,24 @@ Using **Excel** for data cleaning, **SQL** for data integration, and **Figma** f
 
 ---
 
-## 📂 Project Structure  
-- `Data/` → Raw & cleaned datasets (not uploaded due to size/privacy)  
-- `Dashboard/` → Power BI (.pbix) file *(available on request)*  
-- `Report/` → PDF report with insights & screenshots of the dashboard  
-- `README.md` → Project documentation  
+## 🚀 How to Access the Dashboard  
+
+### Option 1: View Live (Recommended)  
+👉 [Click here to view the interactive dashboard](https://app.powerbi.com/links/hqHpJ8XYsU?ctid=4cf084e4-cd6e-401b-88f6-51abe562dc9a&pbi_source=linkShare&bookmarkGuid=7bc9aa26-9003-47cf-9945-40ca9f2b2ed9)  
+*(Best way to explore filters, slicers, and visuals without setup)*  
+
+---
+
+### Option 2: Open the `.pbix` File from GitHub  
+If you want to open the raw project file in **Power BI Desktop**:  
+
+1. Go to the repository files.  
+2. Download the file: **`Blinkit_Dashboard.pbix`**  
+   - Either click on the file → **Download**  
+   - Or use the green **Code → Download ZIP** button and extract it.  
+3. Install **[Power BI Desktop](https://powerbi.microsoft.com/desktop/)** (Free).  
+4. Open Power BI Desktop → **File → Open → Select the downloaded `.pbix` file**.  
+5. Explore the dashboard.  
 
 ---
 
